@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-nine-indol-0rcm9w44zl.vercel.app/sitemap.xml

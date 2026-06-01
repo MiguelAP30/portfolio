@@ -15,6 +15,9 @@ dist-ssr
 # Vercel
 .vercel
 
+# Prompt de negocio (no se sube al repo)
+prompt.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -25,3 +28,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
