@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06121a"/>
+      <stop offset="1" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g)"/>
+  <g stroke="url(#a)" stroke-width="2" fill="none" opacity="0.7">
+    <circle cx="600" cy="300" r="14" fill="#22d3ee"/>
+    <circle cx="420" cy="200" r="9" fill="#a855f7"/>
+    <circle cx="780" cy="210" r="9" fill="#a855f7"/>
+    <circle cx="400" cy="400" r="9" fill="#22d3ee"/>
+    <circle cx="800" cy="400" r="9" fill="#22d3ee"/>
+    <circle cx="600" cy="150" r="7" fill="#a855f7"/>
+    <line x1="600" y1="300" x2="420" y2="200"/>
+    <line x1="600" y1="300" x2="780" y2="210"/>
+    <line x1="600" y1="300" x2="400" y2="400"/>
+    <line x1="600" y1="300" x2="800" y2="400"/>
+    <line x1="600" y1="300" x2="600" y2="150"/>
+  </g>
+  <text x="600" y="540" font-family="Sora, Arial, sans-serif" font-size="56" font-weight="700" fill="#e2e8f0" text-anchor="middle">CortexIQ</text>
+  <text x="600" y="595" font-family="JetBrains Mono, monospace" font-size="26" fill="#94a3b8" text-anchor="middle">Chatbots empresariales · RAG · Agentes</text>
+</svg>
